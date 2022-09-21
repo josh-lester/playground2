@@ -1,4 +1,9 @@
-.side-bar {
-  width: auto;
-  min-width: 300px;
+@media {
+  .side-bar {
+    width: auto;
+    min-width: 300px;
+  }
+  .main-content {
+    width: auto;
+    max-width: auto;
 }
